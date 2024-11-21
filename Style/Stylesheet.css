@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'MyFont';
-  src: url(assets/fonts/Figtree-VariableFont_wght.ttf);
+  src: url(/assets/fonts/Figtree-VariableFont_wght.ttf);
 }
 body{
   background-color: #f5d04e;
